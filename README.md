@@ -1,4 +1,4 @@
-Digital Clock
+<h1 align=center>Digital Clock</h1>
 <hr>
 
 This project is a simple digital clock built using HTML, CSS, and JavaScript. It displays the current time in hours, minutes, and seconds format. The clock updates in real-time, making it a functional digital clock.
@@ -37,5 +37,6 @@ Acknowledgments
 Author
 - Ashutosh Rai
 
-Screenshots
-![Screenshot](Digitalclock.png)
+Screenshots<br>
+<img width="301" alt="Digitalclock" src="https://github.com/Ashutoshrai10630/Digital-Clock/assets/118621969/9ee88a96-dcca-42a7-909b-9785035e16e4">
+
